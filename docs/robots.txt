@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ivantemelkov.github.io/portfolio/sitemap.xml
